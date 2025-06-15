@@ -21,5 +21,3 @@ A full-stack marketplace web application where users can purchase ready-made web
 
 ```bash
 npm install express cors dotenv stripe
-
-### Create a .env file:
