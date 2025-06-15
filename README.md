@@ -18,6 +18,6 @@ A full-stack marketplace web application where users can purchase ready-made web
 ### ✅ Backend Setup (`server.js`)
 
 > Install dependencies first:
-
+> 
 ```bash
 npm install express cors dotenv stripe
