@@ -14,3 +14,14 @@ const handlePurchase = async (website: any) => {
     alert("Payment initiation failed.");
   }
 };
+
+
+Example usage in a button:
+
+<Button 
+  onClick={() => handlePurchase(website)}
+  className="w-full gradient-bg hover:opacity-90 transition-opacity"
+>
+  <ShoppingCart className="w-4 h-4 mr-2" />
+  Purchase Now - ${website.price}
+</Button>
