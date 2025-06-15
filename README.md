@@ -15,9 +15,9 @@ A full-stack marketplace web application where users can purchase ready-made web
 
 ## 🔧 Stripe Integration Overview
 
-### ✅ Backend Setup (`server.js`)
+### ✅ Backend & Frontend Setup (`server.js`)
 
 > Install dependencies first:
 
 ```bash
-npm install express cors dotenv stripe
+npm install express cors dotenv stripe frontend axios
